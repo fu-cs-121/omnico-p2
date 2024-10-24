@@ -1,28 +1,28 @@
 <div style="display: flex; flex-direction: column; border: 1px solid #ddd; font-size: 16px; font-family: sans-serif; line-height: 1.2em; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;">
-  <div style="border-bottom: 1px solid #ddd; width: 100%; padding: 10px 20px; color: #666;">From: Jordan Michaels (jordan.michaels@omni.co)</div>
-  <div style="border-bottom: 1px solid #ddd; width: 100%; padding: 10px 20px; color: #666;">Subject: Urgent Analysis Needed on Social Media Engagement!</div>
-  <div style="padding:20px 40px;">
-    Hey Team,
+<div style="border-bottom: 1px solid #ddd; width: 100%; padding: 10px 20px; color: #666;">From: Jordan Michaels (jordan.michaels@omni.co)</div>
+<div style="border-bottom: 1px solid #ddd; width: 100%; padding: 10px 20px; color: #666;">Subject: Urgent Analysis Needed on Social Media Engagement!</div>
+<div style="padding:20px 40px;">
+Hey Team,
 
-    Hope everyone's feeling as energized as a freshly charged quantum battery! 🚀 We've got an exciting task that just landed on our plates, straight from the top brass at OmniVerse. Our visionary leader, Leo Ike, is eager to see some insightful data on user engagement with our latest social initiatives: **RealityPlus** and **EmotiSense**.
+Hope everyone's feeling as energized as a freshly charged quantum battery! 🚀 We've got an exciting task that just landed on our plates, straight from the top brass at OmniVerse. Our visionary leader, Leo Ike, is eager to see some insightful data on user engagement with our latest social initiatives: **RealityPlus** and **EmotiSense**.
 
-    We've been collecting a treasure trove of user posts, and it's time to dive deep and see how our beloved users are interacting with some key topics of interest. Now, keep this under wraps, but we're particularly curious about how certain *emotional* keywords are resonating with our audience. Words like *amazing*, *triggered*, *OmniCo*, and even *depressed*.
+We've been collecting a treasure trove of user posts, and it's time to dive deep and see how our beloved users are interacting with some key topics of interest. Now, keep this under wraps, but we're particularly curious about how certain _emotional_ keywords are resonating with our audience. Words like _amazing_, _triggered_, _OmniCo_, and even _depressed_.
 
-    Your mission, should you choose to accept it (and you really don't have a choice, do you? Haha!), is to analyze this data and help us understand which keywords are driving the most significant user lifetime value (LTV). Remember, the higher the LTV, the more our users are, let's say, "invested" in our platforms.
+Your mission, should you choose to accept it (and you really don't have a choice, do you? Haha!), is to analyze this data and help us understand which keywords are driving the most significant user lifetime value (LTV). Remember, the higher the LTV, the more our users are, let's say, "invested" in our platforms.
 
-    All the data you need is in the `posts.csv` file, and the keywords are listed in `keywords.txt`. Please write your code in `main.py` and document any thoughts in `report.md`. Let's make Leo proud!
+All the data you need is in the `posts.csv` file, and the keywords are listed in `keywords.txt`. Please write your code in `main.py` and document any thoughts in `report.md`. Let's make Leo proud!
 
-    Cheers to data and beyond,
+Cheers to data and beyond,
 
-    Jordan Michaels
-    Senior Data Enthusiast Manager
-    OmniCo
+Jordan Michaels
+Senior Data Enthusiast Manager
+OmniCo
 
-    <div style="font-size: 11px; color: #666">
-      CONFIDENTIALITY NOTICE: This message contains proprietary information of OmniCo and is protected by the OmniCo Cybernetic Legal AI (CLAIR) system. Unauthorized use or disclosure is strictly prohibited and may result in immediate action, including significant penalties. By proceeding, you acknowledge and agree to these terms across all timelines. Remember, at OmniCo, we’re not just shaping the future—we own it.
-    </div>
+<div style="font-size: 11px; color: #666">
+  CONFIDENTIALITY NOTICE: This message contains proprietary information of OmniCo and is protected by the OmniCo Cybernetic Legal AI (CLAIR) system. Unauthorized use or disclosure is strictly prohibited and may result in immediate action, including significant penalties. By proceeding, you acknowledge and agree to these terms across all timelines. Remember, at OmniCo, we’re not just shaping the future—we own it.
+</div>
 
-  </div>
+</div>
 </div>
 
 ---
